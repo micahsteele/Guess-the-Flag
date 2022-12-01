@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 @main
 struct Guess_the_FlagApp: App {
     var body: some Scene {
